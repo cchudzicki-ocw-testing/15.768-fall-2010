@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings, including books, cases, and
+  journal articles, for each session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

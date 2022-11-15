@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains guidelines for the course project and examples
+  of student projects for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
